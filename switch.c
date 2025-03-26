@@ -20,3 +20,6 @@ void main() {
                 case '5':
 		       printf("b.tech robo");
 		       break;
+		       case '6':
+		       printf("b.tech cyber");
+		       break;
