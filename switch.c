@@ -23,4 +23,8 @@ void main() {
 		case '6'
 		       printf("b.tech bio.tech");
 		       break;
+		       case '7':
+		       printf("b.tech vlsi");
+		       break;
+
 
