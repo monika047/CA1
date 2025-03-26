@@ -26,5 +26,9 @@ void main() {
 		       case '7':
 		       printf("b.tech vlsi");
 
-			break;
+			
+		     break;
+		     case '8':
+		     printf("b.tech data a");
+		     break;
 			}
