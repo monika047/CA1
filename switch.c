@@ -1,16 +1,19 @@
 #include<stdio.h>
 void main() {
-	switch {
+	switch 
 		case '1':
 			printf("b.tech CSE");
 			break;
-	switch {
+	switch 
 		case '2':
 			printf("b.tech AIML");
 			break;
-	switch {
+	switch 
 		case '3':
-			printf{"b.tech ECE");
+			printf"b.tech ECE");
 			break;
-
-
+        switch 
+		case '4:
+			printf"b.tech MEC");
+			break;	
+			}
