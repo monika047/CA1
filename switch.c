@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 void main() {
 	switch 
@@ -15,5 +16,8 @@ void main() {
         switch 
 		case '4:
 			printf"b.tech MEC");
-			break;	
+			break;
+		case '5':
+			printf("b.tech robo");
+			break
 			}
