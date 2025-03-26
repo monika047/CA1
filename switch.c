@@ -10,10 +10,10 @@ void main() {
 			break;
 	switch 
 		case '3':
-			printf"b.tech ECE");
+			printf("b.tech ECE");
 			break;
         switch 
 		case '4:
-			printf"b.tech MEC");
+			printf("b.tech MEC");
 			break;	
 			}
