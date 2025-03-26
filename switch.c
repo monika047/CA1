@@ -23,3 +23,6 @@ void main() {
 		       case '6':
 		       printf("b.tech cyber");
 		       break;
+		       case '7'
+		       printf("b.tech boi tech");
+		       break;
